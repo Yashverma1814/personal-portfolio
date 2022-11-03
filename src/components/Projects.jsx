@@ -13,21 +13,21 @@ export const Projects = () => {
     const projects = [
         {
             title:'Pepperfry Clone',
-            description:'des',
+            description:'Pepperfry is E-commerce Furniture delivering website. Tech Stacks :- ReactJS, CSS, HTML',
             imgUrl:projImg1,
-            gitUrl:'https://github.com/Vikram-amin/pepperfry-clone'
+            gitUrl:'https://pepperfry.onrender.com/'
         },
         {
             title:'Sugar Cosmetics Clone',
-            description:'des',
+            description:'SUGAR is E-commerce cosmetic delivering website. Tech Stacks :- HTML, CSS, Javascript',
             imgUrl:projImg2,
-            gitUrl:'https://github.com/shivling2510/sugar-cosmetics'
+            gitUrl:'https://in.sugarcosmetics.com/'
         },
         {
             title:'Medium Clone',
-            description:'des',
+            description:'Medium is a social publishing platform that is open to all and home to a diverse array of stories, ideas, and perspectives. Tech Stacks :- ReactJS, Redux, CSS, HTML',
             imgUrl:projImg3,
-            gitUrl:'https://github.com/theatulanand/medium-clone'
+            gitUrl:'https://medium-clone-masai.netlify.app/'
         }
     ]
     
